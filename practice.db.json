@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "creator": "poetry",
+        "content": "hey, ya'll!",
+        "likes": 0
+    },
+    {
+        "id": 2,
+        "creator": "glitzandglam",
+        "content": "Life is so fabulous",
+        "likes": 5
+    },
+    {
+        "id": 3,
+        "creator": "ActionMan",
+        "content": "More money, more problems",
+        "likes": 3
+    },
+    {
+        "id": 4,
+        "creator": "anonUser",
+        "content": "little did they know...",
+        "likes": 0
+    },
+    {
+        "id": 5,
+        "creator": "poetry",
+        "content": "baking some more cakes today!! :)",
+        "likes": 2
+    }
+]
